@@ -1,0 +1,12 @@
+.mx_image_background {background-color: #f2f2f2;}
+.td-visibility-hidden {visibility: hidden;}
+.clearfix {}
+.clearfix:before, .clearfix:after {display: table;content: "";line-height: 0;}
+.clearfix:after {clear: both;}
+.td-journal {background-color: #f4f7fc;}
+.td-journal .td-main-page-wrap {padding-top: 80px;}
+@media (min-width: 1019px) and (max-width: 1140px) {.td-journal .td-main-page-wrap {padding-top: 60px;}}
+@media (max-width: 767px) {.td-journal .td-main-page-wrap {padding-top: 55px;}}
+.td-journal .td-container-wrap, .td-journal .post {background-color: transparent;}
+.td-journal .tdm-header-style-3 .td-header-gradient:before {display: none;}
+.td-journal .tdm-header-style-3 ul.sf-menu > .td-menu-item > a {letter-spacing: 1px;}
