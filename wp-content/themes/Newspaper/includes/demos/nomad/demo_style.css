@@ -1,0 +1,5 @@
+.mx_image_background {background-color: #f2f2f2;}
+.td-visibility-hidden {visibility: hidden;}
+.clearfix {}
+.clearfix:before, .clearfix:after {display: table;content: "";line-height: 0;}
+.clearfix:after {clear: both;}
